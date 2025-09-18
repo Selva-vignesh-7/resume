@@ -1,0 +1,219 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1500
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(SELVAVIGNESH G R) Tj
+0 -30 Td
+/F2 16 Tf
+(Full Stack Developer) Tj
+0 -40 Td
+/F1 12 Tf
+(Email: selvavignesh@example.com) Tj
+0 -15 Td
+(Phone: +91 1234567890) Tj
+0 -15 Td
+(Location: Tech City, India) Tj
+0 -15 Td
+(GitHub: github.com/selvavignesh) Tj
+0 -40 Td
+/F2 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F1 11 Tf
+(Passionate full-stack developer with 5+ years of experience creating robust and) Tj
+0 -12 Td
+(efficient digital experiences using modern technologies. Specialized in Java, React,) Tj
+0 -12 Td
+(and Spring Boot with a strong focus on writing clean, maintainable code and) Tj
+0 -12 Td
+(building innovative solutions.) Tj
+0 -30 Td
+/F2 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 11 Tf
+(Frontend Development:) Tj
+0 -12 Td
+(• HTML, CSS, JavaScript, React.js, TypeScript, Bootstrap, Tailwind CSS) Tj
+0 -12 Td
+(• API Integration (REST, JSON, Axios/Fetch)) Tj
+0 -20 Td
+(Backend Development:) Tj
+0 -12 Td
+(• Java (Core Java, OOP, Multi-threading, Exception handling)) Tj
+0 -12 Td
+(• Spring Boot (REST API, Microservices), Spring MVC, Spring Data JPA) Tj
+0 -12 Td
+(• Spring Security (JWT, OAuth), Authentication & Authorization) Tj
+0 -20 Td
+(Database & Cloud:) Tj
+0 -12 Td
+(• MySQL, PostgreSQL, Oracle, MongoDB) Tj
+0 -12 Td
+(• JPA, Hibernate, Docker) Tj
+0 -20 Td
+(Tools & Technologies:) Tj
+0 -12 Td
+(• Git & GitHub, Maven, Gradle, IntelliJ IDEA, VS Code) Tj
+0 -12 Td
+(• Postman, CURL, JUnit, Mockito) Tj
+0 -30 Td
+/F2 14 Tf
+(EXPERIENCE) Tj
+0 -20 Td
+/F1 12 Tf
+(Senior Full Stack Developer) Tj
+0 -8 Td
+/F1 10 Tf
+(Tech Solutions Inc. | 2022 - Present) Tj
+0 -15 Td
+/F1 11 Tf
+(• Developed and maintained scalable web applications using React and Spring Boot) Tj
+0 -10 Td
+(• Implemented RESTful APIs and microservices architecture) Tj
+0 -10 Td
+(• Collaborated with cross-functional teams to deliver high-quality solutions) Tj
+0 -10 Td
+(• Mentored junior developers and conducted code reviews) Tj
+0 -20 Td
+/F1 12 Tf
+(Full Stack Developer) Tj
+0 -8 Td
+/F1 10 Tf
+(Digital Innovations Ltd. | 2020 - 2022) Tj
+0 -15 Td
+/F1 11 Tf
+(• Built responsive web applications using modern JavaScript frameworks) Tj
+0 -10 Td
+(• Designed and implemented database schemas and optimized queries) Tj
+0 -10 Td
+(• Integrated third-party APIs and payment gateways) Tj
+0 -10 Td
+(• Participated in agile development processes) Tj
+0 -30 Td
+/F2 14 Tf
+(PROJECTS) Tj
+0 -20 Td
+/F1 12 Tf
+(E-Commerce Platform) Tj
+0 -8 Td
+/F1 10 Tf
+(2023) Tj
+0 -15 Td
+/F1 11 Tf
+(Full-stack e-commerce solution with React frontend, Spring Boot backend, and) Tj
+0 -10 Td
+(MySQL database. Features include user authentication, product catalog, shopping) Tj
+0 -10 Td
+(cart, and payment integration.) Tj
+0 -20 Td
+/F1 12 Tf
+(Task Management App) Tj
+0 -8 Td
+/F1 10 Tf
+(2022) Tj
+0 -15 Td
+/F1 11 Tf
+(Collaborative task management application with real-time updates, team features,) Tj
+0 -10 Td
+(and mobile responsiveness. Built with React, Node.js, and MongoDB.) Tj
+0 -30 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(Bachelor of Technology in Computer Science) Tj
+0 -8 Td
+/F1 10 Tf
+(University of Technology | 2016 - 2020) Tj
+0 -15 Td
+/F1 11 Tf
+(Graduated with distinction. Relevant coursework included Data Structures,) Tj
+0 -10 Td
+(Algorithms, Database Systems, and Software Engineering.) Tj
+0 -30 Td
+/F2 14 Tf
+(ADDITIONAL SKILLS) Tj
+0 -20 Td
+/F1 11 Tf
+(• Data Analytics and Visualization) Tj
+0 -10 Td
+(• Technical Writing and Documentation) Tj
+0 -10 Td
+(• Software Testing (JUnit, Mockito)) Tj
+0 -10 Td
+(• Agile/Scrum Methodologies) Tj
+0 -10 Td
+(• Problem-solving and Critical Thinking) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001830 00000 n 
+0000001930 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2030
+%%EOF
